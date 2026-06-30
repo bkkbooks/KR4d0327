@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0327/krp/v1/juan/14
+seq: 14
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0327_WYG_014-1a, image: WYG1178/WYG1178-0215a.png}
+body:
+  text: 鐵菴集卷十四宋方大琮撰書劉吏部克莊悼亡屬爾有類鰥氓待老蕭然方營狐首但覺餘生之多感安知初度之來臨敢謂謙厪特加軫記帖朌吉語猶未能免俗之言詞寫壯懷蓋以德愛人之意難勝期待徒有兢慚顧永廢蓼莪思親之淚濕而愧懸弧矢報國之志荒幸明時搜攬之甚寬則孤跡湮沉而奚缺蚤知世味豈必掛神武之門所願身强常得侍耆英之社回王正字邁老我羈游已斷六弧之夢故人逺訪先馳雙鯉之書跫然空谷之足音折了過門之屐齒良鄭重甚如悚愧何恭惟某官李白謫仙徐邈清聖五湖三江之氣落落不衰萬馬千兵之文凛凛可畏雖筆端之清麗尤交誼之歲寒每逢賤生輒贈好語政切彼美一方之望乃煩不逺千里而來水沉似盈尺之苓地栗當如瓜之棗復奏一闋直成三奇某愧無雪兒可歌留與雲孫為寶清興不淺幸勿回子猷之舟濁世可憐安得從王喬之履亟兹馳候略敘謝悰鐵菴集卷十四
+  hash: sha256:c363381bfe5cdfcba59da028e16f2345aa59888cf5e933c6e29dd93dc30a39e1
+metadata:
+  title: 鐵菴集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:04:37.624880'
+  juan_title: 卷十四
+  source:
+    repository: kanripo
+    path: KR4d0327/KR4d0327_014.txt
+hash: sha256:89e2f72fec25987e6caa9f0facf76cedadb05b557a46351286ccaeff1ebec680
